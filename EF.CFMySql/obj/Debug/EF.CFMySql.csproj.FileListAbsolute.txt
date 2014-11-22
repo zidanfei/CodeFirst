@@ -1,0 +1,12 @@
+D:\demo\EFCodeFirst\EF.CFMySql\bin\Debug\EF.CFMySql.exe.config
+D:\demo\EFCodeFirst\EF.CFMySql\bin\Debug\EF.CFMySql.exe
+D:\demo\EFCodeFirst\EF.CFMySql\bin\Debug\EF.CFMySql.pdb
+D:\demo\EFCodeFirst\EF.CFMySql\obj\Debug\EF.CFMySql.csprojResolveAssemblyReference.cache
+D:\demo\EFCodeFirst\EF.CFMySql\obj\Debug\EF.CFMySql.exe
+D:\demo\EFCodeFirst\EF.CFMySql\obj\Debug\EF.CFMySql.pdb
+D:\demo\EFCodeFirst\EF.CFMySql\bin\Debug\EF.Model.dll
+D:\demo\EFCodeFirst\EF.CFMySql\bin\Debug\EntityFramework.dll
+D:\demo\EFCodeFirst\EF.CFMySql\bin\Debug\log4net.dll
+D:\demo\EFCodeFirst\EF.CFMySql\bin\Debug\EF.Model.pdb
+D:\demo\EFCodeFirst\EF.CFMySql\bin\Debug\EntityFramework.xml
+D:\demo\EFCodeFirst\EF.CFMySql\bin\Debug\log4net.xml

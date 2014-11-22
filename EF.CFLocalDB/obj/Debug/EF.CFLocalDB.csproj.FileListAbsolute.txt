@@ -1,0 +1,15 @@
+D:\demo\EFCodeFirst\EF.CFLocalDB\bin\Debug\EF.CFLocalDB.exe.config
+D:\demo\EFCodeFirst\EF.CFLocalDB\bin\Debug\EF.CFLocalDB.exe
+D:\demo\EFCodeFirst\EF.CFLocalDB\bin\Debug\EF.CFLocalDB.pdb
+D:\demo\EFCodeFirst\EF.CFLocalDB\obj\Debug\EF.CFLocalDB.csprojResolveAssemblyReference.cache
+D:\demo\EFCodeFirst\EF.CFLocalDB\obj\Debug\EF.CFLocalDB.exe
+D:\demo\EFCodeFirst\EF.CFLocalDB\obj\Debug\EF.CFLocalDB.pdb
+D:\demo\EFCodeFirst\EF.CFLocalDB\bin\Debug\EF.Model.dll
+D:\demo\EFCodeFirst\EF.CFLocalDB\bin\Debug\log4net.dll
+D:\demo\EFCodeFirst\EF.CFLocalDB\bin\Debug\EntityFramework.dll
+D:\demo\EFCodeFirst\EF.CFLocalDB\bin\Debug\EF.Model.pdb
+D:\demo\EFCodeFirst\EF.CFLocalDB\bin\Debug\EntityFramework.xml
+D:\demo\EFCodeFirst\EF.CFLocalDB\bin\Debug\App_Data\readme.txt
+D:\demo\EFCodeFirst\EF.CFLocalDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\demo\EFCodeFirst\EF.CFLocalDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\demo\EFCodeFirst\EF.CFLocalDB\bin\Debug\log4net.xml

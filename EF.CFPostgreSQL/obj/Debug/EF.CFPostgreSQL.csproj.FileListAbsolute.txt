@@ -1,0 +1,12 @@
+D:\demo\EFCodeFirst\EF.CFPostgreSQL\bin\Debug\EF.CFPostgreSQL.exe.config
+D:\demo\EFCodeFirst\EF.CFPostgreSQL\bin\Debug\EF.CFPostgreSQL.exe
+D:\demo\EFCodeFirst\EF.CFPostgreSQL\bin\Debug\EF.CFPostgreSQL.pdb
+D:\demo\EFCodeFirst\EF.CFPostgreSQL\obj\Debug\EF.CFPostgreSQL.csprojResolveAssemblyReference.cache
+D:\demo\EFCodeFirst\EF.CFPostgreSQL\obj\Debug\EF.CFPostgreSQL.exe
+D:\demo\EFCodeFirst\EF.CFPostgreSQL\obj\Debug\EF.CFPostgreSQL.pdb
+D:\demo\EFCodeFirst\EF.CFPostgreSQL\bin\Debug\EF.Model.dll
+D:\demo\EFCodeFirst\EF.CFPostgreSQL\bin\Debug\EntityFramework.dll
+D:\demo\EFCodeFirst\EF.CFPostgreSQL\bin\Debug\log4net.dll
+D:\demo\EFCodeFirst\EF.CFPostgreSQL\bin\Debug\EF.Model.pdb
+D:\demo\EFCodeFirst\EF.CFPostgreSQL\bin\Debug\EntityFramework.xml
+D:\demo\EFCodeFirst\EF.CFPostgreSQL\bin\Debug\log4net.xml

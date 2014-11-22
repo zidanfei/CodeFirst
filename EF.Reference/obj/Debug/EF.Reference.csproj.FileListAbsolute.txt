@@ -1,0 +1,5 @@
+D:\demo\EFCodeFirst\EF.Reference\bin\Debug\EF.Reference.dll
+D:\demo\EFCodeFirst\EF.Reference\bin\Debug\EF.Reference.pdb
+D:\demo\EFCodeFirst\EF.Reference\obj\Debug\EF.Reference.dll
+D:\demo\EFCodeFirst\EF.Reference\obj\Debug\EF.Reference.pdb
+D:\demo\EFCodeFirst\EF.Reference\obj\Debug\EF.Reference.csprojResolveAssemblyReference.cache

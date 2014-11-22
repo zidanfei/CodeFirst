@@ -1,0 +1,16 @@
+D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\EF.CFSqlserver.exe.config
+D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\EF.CFSqlserver.exe
+D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\EF.CFSqlserver.pdb
+D:\demo\EFCodeFirst\EF.CFSqlserver\obj\Debug\EF.CFSqlserver.exe
+D:\demo\EFCodeFirst\EF.CFSqlserver\obj\Debug\EF.CFSqlserver.pdb
+D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\EF.Model.dll
+D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\EntityFramework.dll
+D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\log4net.dll
+D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\EF.Model.pdb
+D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\EntityFramework.xml
+D:\demo\EFCodeFirst\EF.CFSqlserver\obj\Debug\EF.CFSqlserver.csprojResolveAssemblyReference.cache
+D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\log4net.xml
+D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\EntityFramework.SqlServer.dll
+D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\EntityFramework.SqlServer.xml
+D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\EF.ModelExtend.dll
+D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\EF.ModelExtend.pdb

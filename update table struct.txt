@@ -1,0 +1,5 @@
+         在vs2013IDE中，工具-->库程序包管理器-->程序包管理器控制台
+		 Enable-Migrations -Force -ContextTypeName 上下文
+         Enable-Migrations -Force -ContextTypeName ConsoleApplication1.NorthwindContext
+         add-migration Initial 
+         update-database

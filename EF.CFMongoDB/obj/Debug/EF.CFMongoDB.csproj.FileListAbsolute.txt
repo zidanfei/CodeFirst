@@ -1,0 +1,12 @@
+D:\demo\EFCodeFirst\EF.CFMongoDB\bin\Debug\EF.CFMongoDB.exe.config
+D:\demo\EFCodeFirst\EF.CFMongoDB\bin\Debug\EF.CFMongoDB.exe
+D:\demo\EFCodeFirst\EF.CFMongoDB\bin\Debug\EF.CFMongoDB.pdb
+D:\demo\EFCodeFirst\EF.CFMongoDB\obj\Debug\EF.CFMongoDB.csprojResolveAssemblyReference.cache
+D:\demo\EFCodeFirst\EF.CFMongoDB\obj\Debug\EF.CFMongoDB.exe
+D:\demo\EFCodeFirst\EF.CFMongoDB\obj\Debug\EF.CFMongoDB.pdb
+D:\demo\EFCodeFirst\EF.CFMongoDB\bin\Debug\EF.Model.dll
+D:\demo\EFCodeFirst\EF.CFMongoDB\bin\Debug\EntityFramework.dll
+D:\demo\EFCodeFirst\EF.CFMongoDB\bin\Debug\log4net.dll
+D:\demo\EFCodeFirst\EF.CFMongoDB\bin\Debug\EF.Model.pdb
+D:\demo\EFCodeFirst\EF.CFMongoDB\bin\Debug\EntityFramework.xml
+D:\demo\EFCodeFirst\EF.CFMongoDB\bin\Debug\log4net.xml

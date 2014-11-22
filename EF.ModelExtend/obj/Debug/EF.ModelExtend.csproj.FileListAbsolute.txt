@@ -1,0 +1,10 @@
+D:\demo\EFCodeFirst\EF.ModelExtend\bin\Debug\EF.ModelExtend.dll
+D:\demo\EFCodeFirst\EF.ModelExtend\bin\Debug\EF.ModelExtend.pdb
+D:\demo\EFCodeFirst\EF.ModelExtend\obj\Debug\EF.ModelExtend.csprojResolveAssemblyReference.cache
+D:\demo\EFCodeFirst\EF.ModelExtend\obj\Debug\EF.ModelExtend.dll
+D:\demo\EFCodeFirst\EF.ModelExtend\obj\Debug\EF.ModelExtend.pdb
+D:\demo\EFCodeFirst\EF.ModelExtend\bin\Debug\EF.Model.dll
+D:\demo\EFCodeFirst\EF.ModelExtend\bin\Debug\EntityFramework.dll
+D:\demo\EFCodeFirst\EF.ModelExtend\bin\Debug\log4net.dll
+D:\demo\EFCodeFirst\EF.ModelExtend\bin\Debug\EF.Model.pdb
+D:\demo\EFCodeFirst\EF.ModelExtend\bin\Debug\EntityFramework.xml
