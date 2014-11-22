@@ -14,3 +14,6 @@ D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\EntityFramework.SqlServer.dll
 D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\EntityFramework.SqlServer.xml
 D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\EF.ModelExtend.dll
 D:\demo\EFCodeFirst\EF.CFSqlserver\bin\Debug\EF.ModelExtend.pdb
+D:\demo\EFCodeFirst_MultiDB\CodeFirst\EF.CFSqlserver\bin\Debug\EF.CFSqlserver.exe.config
+D:\demo\EFCodeFirst_MultiDB\CodeFirst\EF.CFSqlserver\obj\Debug\EF.CFSqlserver.exe
+D:\demo\EFCodeFirst_MultiDB\CodeFirst\EF.CFSqlserver\obj\Debug\EF.CFSqlserver.pdb

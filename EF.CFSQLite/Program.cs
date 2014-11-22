@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EF.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,12 @@ namespace EF.CFSQLite
     {
         static void Main(string[] args)
         {
+            Category d = new Category();
+            CategoryExtend ce = new CategoryExtend();
+            ce.BuildExtendProp();
+            ce.SetValue("ExtendProp", "a");
+            var v = ce.GetValue("ExtendProp");
+            DBOperate.Init();
         }
     }
 }

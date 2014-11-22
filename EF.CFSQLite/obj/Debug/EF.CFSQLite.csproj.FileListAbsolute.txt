@@ -10,3 +10,5 @@ D:\demo\EFCodeFirst\EF.CFSQLite\bin\Debug\EF.Model.pdb
 D:\demo\EFCodeFirst\EF.CFSQLite\bin\Debug\EntityFramework.xml
 D:\demo\EFCodeFirst\EF.CFSQLite\obj\Debug\EF.CFSQLite.csprojResolveAssemblyReference.cache
 D:\demo\EFCodeFirst\EF.CFSQLite\bin\Debug\log4net.xml
+D:\demo\EFCodeFirst_MultiDB\CodeFirst\EF.CFSQLite\obj\Debug\EF.CFSQLite.csprojResolveAssemblyReference.cache
+D:\demo\EFCodeFirst_MultiDB\CodeFirst\EF.CFSQLite\obj\Debug\EF.CFSQLite.exe
