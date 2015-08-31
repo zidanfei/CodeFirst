@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace EF.Model
 {
+    //http://blog.163.com/m13864039250_1/blog/static/21386524820152141548357/ EF 提供了一系列属性用于描述模型
     public partial class Category
     {
         /// <summary>
@@ -60,7 +61,7 @@ namespace EF.Model
             get;
             set;
         }
-
+        [NotMapped]
         public decimal Order2
         {
             get;
